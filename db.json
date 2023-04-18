@@ -1,12 +1,21 @@
 {
+    "users": [
+        { "id": 1, "name": "John" },
+        { "id": 2, "name": "Paul" },
+        { "id": 3, "name": "George" }
+      ],
     "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+      { "id": 1, "title": "Post 1", "userId": 1 },
+      { "id": 2, "title": "Post 2", "userId": 2 },
+      { "id": 3, "title": "Post 3", "userId": 3 }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
       { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "albums": [
+        { "id": 1, "media_url": "https://via.placeholder.com/150.png/CCCCCC/000000?text=User+1", "userId": 1 },
+        { "id": 2, "media_url": "https://via.placeholder.com/150.png/CCCCCC/000000?text=User+2", "userId": 1 }
     ],
     "profile": {
       "name": "mulutbrah"
