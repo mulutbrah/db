@@ -8,7 +8,7 @@
       { "id": 1, "title": "Post User 1", "userId": 1 },
       { "id": 2, "title": "Post User 2", "userId": 2 },
       { "id": 3, "title": "Post User 3", "userId": 3 },
-      { "id": 3, "title": "Post User 1 part 2", "userId": 3 }
+      { "id": 3, "title": "Post User 1 part 2", "userId": 1 }
     ],
     "comments": [
       { "id": 1, "body": "some comment", "postId": 1 },
