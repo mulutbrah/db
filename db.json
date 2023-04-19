@@ -22,7 +22,7 @@
         { "id": 3, "media_url": "https://via.placeholder.com/150.png/CCCCCC/000000?text=User+2", "userId": 2 },
         { "id": 4, "media_url": "https://via.placeholder.com/150.png/CCCCCC/000000?text=User+2", "userId": 2 },
         { "id": 5, "media_url": "https://via.placeholder.com/150.png/CCCCCC/000000?text=User+3", "userId": 3 },
-        { "id": 6, "media_url": "https://via.placeholder.com/350.png/CCCCCC/000000?text=User+3", "userId": 3 },
+        { "id": 6, "media_url": "https://via.placeholder.com/350.png/CCCCCC/000000?text=User+3", "userId": 3 }
     ],
     "profile": {
       "name": "mulutbrah"
